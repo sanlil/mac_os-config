@@ -1,215 +1,50 @@
 # APPLICATIONS
 
-# Acorn
-/Users/bkuhlmann/Library/Preferences/com.flyingmeat.Acorn5.LSSharedFileList.plist
-
-# Alfred
-/Users/bkuhlmann/Library/Preferences/com.runningwithcrayons.Alfred-3.plist
-/Users/bkuhlmann/Library/Preferences/com.runningwithcrayons.Alfred-Preferences-3.plist
-
 # App Store
-/Users/bkuhlmann/Library/Preferences/com.apple.appstore.commerce.plist
-/Users/bkuhlmann/Library/Preferences/com.apple.appstore.plist
-
-# App Cleaner
-/Users/bkuhlmann/Library/Preferences/com.freemacsoft.AppCleaner.plist
-/Users/bkuhlmann/Library/Preferences/net.freemacsoft.AppCleaner.plist
-
-# AudioBridge
-/Users/bkuhlmann/Library/Preferences/org.jhurliman.AudioBridge.plist
-
-# Aurora Blu-Ray Copy
-/Users/bkuhlmann/Library/Preferences/com.bluray-player-software.AuroraBlurayCopy.plist
-
-# Bartender
-/Users/bkuhlmann/Library/Preferences/com.surteesstudios.Bartender.plist
-
-# Carbon Copy Cloner
-/Users/bkuhlmann/Library/Preferences/com.bombich.ccc.plist
-
-# ClipGrab
-/Users/bkuhlmann/Library/Preferences/de.clipgrab.ClipGrab.plist
-
-# Coolant
-/Users/bkuhlmann/Library/Preferences/com.leadtiger.Coolant.plist
-
-# Contacts
-/Users/bkuhlmann/Library/Preferences/com.apple.AddressBook.plist
-
-# Dash
-/Users/bkuhlmann/Library/Application Support/Dash
-/Users/bkuhlmann/Library/Preferences/com.kapeli.dashdoc.plist
-
-# Docker
-/Users/bkuhlmann/Library/Preferences/com.docker.docker.plist
-
-# Doxie
-/Users/bkuhlmann/Library/Preferences/com.getdoxie.doxie.plist
-
-# FaceTime
-/Users/bkuhlmann/Library/Preferences/com.apple.facetime.bag.plist
-/Users/bkuhlmann/Library/Preferences/com.apple.FaceTime.plist
-/Users/bkuhlmann/Library/Preferences/com.apple.imservice.ids.FaceTime.plist
-
-# Fantastical
-/Users/bkuhlmann/Library/Preferences/com.flexibits.fantastical.plist
+/Users/sandra/Library/Preferences/com.apple.appstore.commerce.plist
+/Users/sandra/Library/Preferences/com.apple.appstore.plist
 
 # Finder
-/Users/bkuhlmann/Library/Preferences/com.apple.finder.plist
+/Users/sandra/Library/Preferences/com.apple.finder.plist
 
 # Firefox
-/Users/bkuhlmann/Library/Preferences/org.mozilla.firefox.plist
+/Users/sandra/Library/Preferences/org.mozilla.firefox.plist
 
 # Google Chrome
-/Users/bkuhlmann/Library/Preferences/com.google.Chrome.plist
-
-# HandBrake
-/Users/bkuhlmann/Library/Preferences/fr.handbrake.HandBrake.plist
-
-# Hazel
-/Users/bkuhlmann/Library/Application Support/Hazel
-/Users/bkuhlmann/Library/Preferences/com.noodlesoft.Hazel.plist
-/Users/bkuhlmann/Library/Preferences/com.noodlesoft.HazelHelper.plist
-
-# IVPN
-/Users/bkuhlmann/Library/Preferences/net.ivpn.client.IVPN.plist
-
-# Image Capture
-/Users/bkuhlmann/Library/Preferences/com.apple.ImageCaptureExtension2.plist
-/Users/bkuhlmann/Library/Preferences/com.apple.Image_Capture.plist
-
-# ImageOptim
-/Users/bkuhlmann/Library/Preferences/net.pornel.ImageOptim.plist
-
-# iStat Menus
-/Users/bkuhlmann/Library/Preferences/com.bjango.istatmenus.plist
-/Users/bkuhlmann/Library/Preferences/com.bjango.istatmenus6.extras.plist
+/Users/sandra/Library/Preferences/com.google.Chrome.plist
 
 # iTerm
-/Users/bkuhlmann/Library/Preferences/com.googlecode.iterm2.plist
-
-# iTunes
-/Users/bkuhlmann/Library/Preferences/com.apple.iTunes.eq.plist
-/Users/bkuhlmann/Library/Preferences/com.apple.iTunes.Gracenote.plist
-/Users/bkuhlmann/Library/Preferences/com.apple.iTunes.Gracenote.plist
-/Users/bkuhlmann/Library/Preferences/com.apple.iTunes.plist
-/Users/bkuhlmann/Library/Preferences/com.apple.iTunesHelper.plist
-
-# Keymo
-/Users/bkuhlmann/Library/Preferences/com.manytricks.Keymo.plist
-
-# Marp
-/Users/bkuhlmann/Library/Preferences/jp.yhatt.marp.helper.plist
-/Users/bkuhlmann/Library/Preferences/jp.yhatt.marp.plist
-
-# Max
-/Users/bkuhlmann/Library/Preferences/org.sbooth.Max.LSSharedFileList.plist
-/Users/bkuhlmann/Library/Preferences/org.sbooth.Max.plist
-
-# Micro Snitch
-/Users/bkuhlmann/Library/Preferences/at.obdev.MicroSnitch.plist
-
-# MoneyWell
-/Users/bkuhlmann/Library/Preferences/com.nothirst.moneywell.mac.LSSharedFileList.plist
-
-# Moom
-/Users/bkuhlmann/Library/Preferences/com.manytricks.Moom.plist
-
-# Muzzle
-/Users/bkuhlmann/Library/Preferences/com.incident57.Muzzle.plist
-
-# Numi
-/Users/bkuhlmann/Library/Preferences/com.dmitrynikolaev.numi.plist
-
-# OmniGraffle
-/Users/bkuhlmann/Library/Preferences/com.omnigroup.OmniGrafflePro.plist
-
-# Path Finder
-/Users/bkuhlmann/Library/Application Support/Path Finder
-/Users/bkuhlmann/Library/Preferences/com.cocoatech.PathFinder.LSSharedFileList.plist
-/Users/bkuhlmann/Library/Preferences/com.cocoatech.PathFinder.plist
-
-# Paw
-/Users/bkuhlmann/Library/Preferences/com.luckymarmot.Paw.plist
-
-# pgAdmin
-/Users/bkuhlmann/Library/Preferences/org.pgadmin.pgAdmin 4.plist
+/Users/sandra/Library/Preferences/com.googlecode.iterm2.plist
 
 # PSequel
-/Users/bkuhlmann/Library/Preferences/com.psequel.PSequel.plist
-
-# Retrobatch
-/Users/bkuhlmann/Library/Preferences/com.flyingmeat.Retrobatch.plist
-
-# Resolutionator
-/Users/bkuhlmann/Library/Preferences/com.manytricks.Resolutionator.plist
-
-# Sequel Pro
-/Users/bkuhlmann/Library/Preferences/com.sequelpro.SequelPro.plist
-
-# Signal
-/Users/bkuhlmann/Library/Preferences/org.whispersystems.signal-desktop.helper.plist
-/Users/bkuhlmann/Library/Preferences/org.whispersystems.signal-desktop.plist
+/Users/sandra/Library/Preferences/com.psequel.PSequel.plist
 
 # Sonos
-/Users/bkuhlmann/Library/Preferences/com.sonos.macController.plist
+/Users/sandra/Library/Preferences/com.sonos.macController.plist
 
 # Spotify
-/Users/bkuhlmann/Library/Preferences/com.spotify.client.helper.plist
-/Users/bkuhlmann/Library/Preferences/com.spotify.client.plist
+/Users/sandra/Library/Preferences/com.spotify.client.helper.plist
+/Users/sandra/Library/Preferences/com.spotify.client.plist
 
 # System Preferences
-/Users/bkuhlmann/Library/Preferences/com.apple.systempreferences.plist
+/Users/sandra/Library/Preferences/com.apple.systempreferences.plist
 
-# Tor Browser
-/Users/bkuhlmann/Library/Preferences/org.mozilla.tor browser.plist
-
-# Transmit
-/Users/bkuhlmann/Library/Preferences/com.panic.Transmit.plist
-
-# Viscosity
-/Users/bkuhlmann/Library/Preferences/com.viscosityvpn.Viscosity.plist
-
-# Visual Studio Code
-/Users/bkuhlmann/Library/Preferences/com.microsoft.VSCode.helper.plist
-/Users/bkuhlmann/Library/Preferences/com.microsoft.VSCode.plist
-
-# VLC
-/Users/bkuhlmann/Library/Application Support/org.videolan.vlc
-/Users/bkuhlmann/Library/Preferences/org.videolan.vlc.plist
-
-# Witch
-/Users/bkuhlmann/Library/Preferences/com.manytricks.Witch.plist
-
-# Zoom
-/Users/bkuhlmann/Library/Preferences/us.zoom.xos.plist
+# iTerm
+/Users/sandra/Library/Preferences/com.googlecode.iterm2.plist
 
 # SYSTEM
 
 # newsyslog
-/Users/bkuhlmann/Library/LaunchAgents/com.apple.newsyslog.plist
+/Users/sandra/Library/LaunchAgents/com.apple.newsyslog.plist
 
 # USER
-/Users/bkuhlmann/.asciinema
-/Users/bkuhlmann/.bundle/config
-/Users/bkuhlmann/.config
-/Users/bkuhlmann/.gem/credentials
-/Users/bkuhlmann/.gem/gem-private_key.pem
-/Users/bkuhlmann/.gem/gem-public_cert.pem
-/Users/bkuhlmann/.gitconfig
-/Users/bkuhlmann/.gnupg
-/Users/bkuhlmann/.netrc
-/Users/bkuhlmann/.parallel
-/Users/bkuhlmann/.pgadmin
-/Users/bkuhlmann/.parallel
-/Users/bkuhlmann/.siege
-/Users/bkuhlmann/.ssh
-/Users/bkuhlmann/.ssl
-/Users/bkuhlmann/.vscode
-/Users/bkuhlmann/.z
-/Users/bkuhlmann/Apps
-/Users/bkuhlmann/Desktop
-/Users/bkuhlmann/Documents
-/Users/bkuhlmann/Downloads
-/Users/bkuhlmann/Dropbox
-/Users/bkuhlmann/Engineering
+/Users/sandra/.bash/env.sh
+/Users/sandra/.gitconfig
+/Users/sandra/.ssh
+/Users/sandra/.ssl
+/Users/sandra/Apps
+/Users/sandra/Code
+/Users/sandra/Data
+/Users/sandra/Documents/desktop_background.jpg
+/Users/sandra/Downloads
+/Users/sandra/Dropbox
