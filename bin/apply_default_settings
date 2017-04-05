@@ -54,6 +54,10 @@ defaults write com.apple.dock orientation left
 # printf "System - Set the icon size of Dock items"
 # defaults write com.apple.dock tilesize -int 34
 
+printf "System - Always show scrollbars"
+defaults write NSGlobalDomain AppleShowScrollBars -string "Auto"
+defaults write NSGlobalDomain AppleShowScrollBars -string "Always"
+
 printf "Keyboard - Automatically illuminate built-in MacBook keyboard in low light\n"
 defaults write com.apple.BezelServices kDim -bool true
 
