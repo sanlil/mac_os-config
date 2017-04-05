@@ -53,3 +53,8 @@ brew cask install sourcetree
 brew cask install spectacle
 brew cask install spotify
 brew cask install sublime-text
+
+
+# PIP
+sudo easy_install pip
+sudo pip install cqlsh --ignore-installed
