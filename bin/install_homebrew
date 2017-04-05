@@ -1,0 +1,55 @@
+#! /usr/bin/env bash
+
+# DESCRIPTION
+# Installs Homebrew software.
+
+# EXECUTION
+# Homebrew
+if ! command -v brew > /dev/null; then
+  ruby -e "$(curl --location --fail --silent --show-error https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  export PATH="/usr/local/bin:$PATH"
+  printf "export PATH=\"/usr/local/bin:$PATH\"\n" >> $HOME/.bash_profile
+fi
+
+# Bash
+brew install bash
+  
+# Bash Completion
+brew install bash-completion
+
+# Docker
+brew install docker
+
+# Git
+brew install git
+
+# JSON CLI Parser
+brew install jq
+
+# Mac App Store CLI
+brew install mas
+
+# Maven
+brew install maven
+
+# Node
+brew install node
+
+# tmux
+brew install tmux
+brew install reattach-to-user-namespace
+
+
+# CASK
+brew cask install docker-toolbox
+brew cask install dropbox
+brew cask install firefox
+brew cask install google-chrome
+brew cask install intellij-idea
+brew cask install iterm2
+brew cask install java
+brew cask install messenger-for-desktop
+brew cask install sourcetree
+brew cask install spectacle
+brew cask install spotify
+brew cask install sublime-text
