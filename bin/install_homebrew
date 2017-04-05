@@ -11,6 +11,9 @@ if ! command -v brew > /dev/null; then
   printf "export PATH=\"/usr/local/bin:$PATH\"\n" >> $HOME/.bash_profile
 fi
 
+# Curl
+brew install curl
+
 # Bash
 brew install bash
   
