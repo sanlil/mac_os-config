@@ -13,9 +13,6 @@ fi
 
 # Curl
 brew install curl
-
-# Bash
-brew install bash
   
 # Bash Completion
 brew install bash-completion
