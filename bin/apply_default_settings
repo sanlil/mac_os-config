@@ -58,6 +58,12 @@ printf "System - Always show scrollbars"
 defaults write NSGlobalDomain AppleShowScrollBars -string "Auto"
 defaults write NSGlobalDomain AppleShowScrollBars -string "Always"
 
+printf "System - Change screenshot save location"
+defaults write com.apple.screencapture location -string "${HOME}/screenshots"
+
+printf "System - Save screenshots in PNG format (other options: BMP, GIF, JPG, PDF, TIFF)"
+defaults write com.apple.screencapture type -string "png"
+
 printf "Keyboard - Automatically illuminate built-in MacBook keyboard in low light\n"
 defaults write com.apple.BezelServices kDim -bool true
 
