@@ -1,25 +1,3 @@
 #! /usr/bin/env bash
 
 # Sets up and launches (if necessary) installed software.
-
-# Bash
-sudo bash -c "printf '/usr/local/bin/bash\n' >> /etc/shells"
-
-# Bash Completion
-chsh -s /usr/local/bin/bash
-
-# Homebrew
-(
-  cd /usr/local/Homebrew
-  git config --local core.hooksPath /dev/null
-)
-
-# Sublime Text
-if [ ! -e "/usr/bin/sublime" ]; then
-  sudo ln -sv "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/sublime
-fi
-
-# Dotfiles
-# rm -f $HOME/.bash_profile
-# install_git_project "https://github.com/sanlil/dotfiles.git" $REPO_DOTFILES "dotfiles" "bin/run i"
-# source $HOME/.bashrc
