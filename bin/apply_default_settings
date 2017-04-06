@@ -64,6 +64,9 @@ defaults write com.apple.screencapture location -string "${HOME}/screenshots"
 printf "System - Save screenshots in PNG format (other options: BMP, GIF, JPG, PDF, TIFF)"
 defaults write com.apple.screencapture type -string "png"
 
+printf "System - Show remaining battery percentage"
+defaults write com.apple.menuextra.battery ShowPercent -string "YES"
+
 printf "Keyboard - Automatically illuminate built-in MacBook keyboard in low light\n"
 defaults write com.apple.BezelServices kDim -bool true
 
